@@ -1,8 +1,8 @@
 #! python3
 
 
-noun = "dog"
-verb = "barked"
+noun= "dog"
+verb= "barked"
 
-result= noun\verb
+result= noun + "\n" + verb
 print(result)
