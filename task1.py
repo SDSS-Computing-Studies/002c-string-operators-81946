@@ -1,5 +1,7 @@
 #! python3
 
 noun = "dog"
+o= " "
 verb = "barked"
-result  = 
+result  = noun + o + verb
+print(result)
